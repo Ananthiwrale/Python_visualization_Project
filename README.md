@@ -1,7 +1,4 @@
 # Python_visualization_Project
 
-This analysis visualizes global population data for the year 2023 using two types of plots:
-
-Bar Chart – Displays the Top 10 most populous countries in 2023. This helps identify which countries have the highest population.
-
-Histogram – Shows the distribution of population across all countries, highlighting that most countries have smaller populations, while a few have very large ones.
+ Prodigy Infotech Internship Project (Short Summary)
+Developed a data visualization project using Python to analyze the 2023 world population dataset from the World Bank. Created a bar chart of the top 10 most populous countries and a histogram showing global population distribution using Pandas and Matplotlib.
